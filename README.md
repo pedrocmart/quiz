@@ -1,4 +1,4 @@
-# quiz-go
+# quiz
 
 # Test Quiz - Instructions
 The task is to build a super simple quiz with a few questions and a few alternatives for each question. Each with one correct answer.
@@ -10,7 +10,6 @@ Since no database is required, I tried to reproduce a database with 4 categories
 3- History<br/>
 4- General Knowledge
 
-These IDs (1, 2, 3 or 4) will be required to run the CLI, depending on which chosen category you'll answer the quiz.
 Each category have 5 questions.
 
 ## To run the API
